@@ -72,3 +72,10 @@ resetBtn.addEventListener("click",resetGame);
 
 
 
+l;
+;l;
+;ll;
+;l;'
+    ;ll;'
+    ;ll;'
+    l'
