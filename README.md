@@ -1,9 +1,4 @@
 fghjkl;lkjhgghjkl;;gffgh
 ';lkjhggk;'
 ';lkjhghl;'
-';lkjhjkl;'
-';lkjhjkl'
-';lkjjkl;'
-';lkjjkl;'
-';lkjhhjkl;'
-';lkjhjkl;'
+';lkjh
