@@ -12,6 +12,6 @@ This project demonstrates core concepts of DOM manipulation, event handling, and
  * Clean and responsive layout
 
 🧰 Technologies Used
-HTML5 – Structure of the game
-CSS3 – Styling and layout
-JavaScript – Game logic and interactivity
+i) HTML5 – Structure of the game
+ii) CSS3 – Styling and layout
+iii) JavaScript – Game logic and interactivity
