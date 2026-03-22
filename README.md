@@ -15,3 +15,10 @@ This project demonstrates core concepts of DOM manipulation, event handling, and
 i) HTML5 – Structure of the game
 ii) CSS3 – Styling and layout
 iii) JavaScript – Game logic and interactivity
+
+📂 Project Structure
+tic-tac-toe/
+│
+├── tic.html
+├── tic.css
+└── tic.js
