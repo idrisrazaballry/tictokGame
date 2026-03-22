@@ -22,3 +22,14 @@ tic-tac-toe/
 ├── tic.html
 ├── tic.css
 └── tic.js
+
+
+🧠 How the Game Works
+1️⃣ Game Board
+The board consists of 9 buttons (3x3 grid)
+Each button represents a cell
+2️⃣ Player Turns
+Player O starts first
+Players take turns marking:
+O
+X
