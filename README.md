@@ -31,5 +31,5 @@ Each button represents a cell
 2️⃣ Player Turns
 Player O starts first
 Players take turns marking:
-O
-X
+i)        O
+ii)       X
