@@ -24,7 +24,7 @@ tic-tac-toe/
 └── tic.js
 
 
-🧠 How the Game Works
+ How the Game Works
 1️⃣ Game Board
 The board consists of 9 buttons (3x3 grid)
 Each button represents a cell
