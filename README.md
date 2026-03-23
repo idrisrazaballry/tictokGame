@@ -47,3 +47,7 @@ The game checks if any of these patterns match after every move.
 Displays message:
 Congradulations, Winner is X/O
 Game stops after winner is found
+
+5️⃣ Reset Functionality
+Reset Button → Clears board
+New Game Button → Starts fresh game
