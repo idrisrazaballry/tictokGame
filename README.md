@@ -42,3 +42,8 @@ Winning patterns are defined as:
 [3,4,5], [6,7,8]
 
 The game checks if any of these patterns match after every move.
+
+4️⃣ Winner Display
+Displays message:
+Congradulations, Winner is X/O
+Game stops after winner is found
