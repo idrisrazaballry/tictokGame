@@ -3,7 +3,7 @@
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 This project demonstrates core concepts of DOM manipulation, event handling, and game logic implementation.
 
-___Features___
+__Features__
  * Two-player game (X vs O)
  * Interactive UI using buttons
  * Winner detection logic
