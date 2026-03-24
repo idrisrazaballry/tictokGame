@@ -67,7 +67,7 @@ Game State Management
 Arrays for winning logic
 Dynamic UI updates
 
-🎯 Future Improvements
+__Future Improvements__
 Add draw detection
 Add score tracking
 Add AI (play vs computer)
