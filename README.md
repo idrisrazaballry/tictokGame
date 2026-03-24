@@ -66,3 +66,10 @@ Event Listeners
 Game State Management
 Arrays for winning logic
 Dynamic UI updates
+
+🎯 Future Improvements
+Add draw detection
+Add score tracking
+Add AI (play vs computer)
+Improve UI animations
+Make it mobile responsive
