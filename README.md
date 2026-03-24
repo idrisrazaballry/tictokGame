@@ -60,7 +60,7 @@ Open the project folder
 Run the game:
 Open tic.html in browser
 
-🧩 Key Concepts Used
+_Key Concepts Used_
 DOM Selection (querySelector, querySelectorAll)
 Event Listeners
 Game State Management
