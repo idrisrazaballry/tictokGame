@@ -51,3 +51,11 @@ Game stops after winner is found
 5️⃣ Reset Functionality
 Reset Button → Clears board
 New Game Button → Starts fresh game
+
+⚙️ How to Run
+Download or clone the repository:
+git clone https://github.com/idrisrazaballry/tic-tac-toe.git
+
+Open the project folder
+Run the game:
+Open tic.html in browser
