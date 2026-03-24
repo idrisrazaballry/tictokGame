@@ -59,3 +59,10 @@ git clone https://github.com/idrisrazaballry/tic-tac-toe.git
 Open the project folder
 Run the game:
 Open tic.html in browser
+
+🧩 Key Concepts Used
+DOM Selection (querySelector, querySelectorAll)
+Event Listeners
+Game State Management
+Arrays for winning logic
+Dynamic UI updates
