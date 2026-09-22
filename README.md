@@ -73,16 +73,3 @@ Add score tracking
 Add AI (play vs computer)
 Improve UI animations
 Make it mobile responsive
-
-
-
-
-
-
-
-
-
-fjjm
-hm
-j
-jmuikhg
